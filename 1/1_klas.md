@@ -15,7 +15,6 @@
 	* [Школа активного відпочинку (рекреації)](shkola_aktyvnoho_vidpochynku.md)
 		* [Орієнтовні навчальні нормативи і вимоги](normatyvy_i_vymoohy5.md)
 	* [Школа сприяння розвитку фізичних здібностей](shkola_spryiannya_rozvytku_fizychnykh_zdibnostei.md)
-		* [Орієнтовні навчальні нормативи і вимоги](normatyvy_i_vymoohy6.md)
 	* [Школа постави](shkola_postavy.md)
 		* [Орієнтовні навчальні нормативи і вимоги](normatyvy_i_vymoohy7.md)
 
