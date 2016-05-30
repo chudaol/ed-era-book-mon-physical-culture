@@ -1,0 +1,26 @@
+# Summary
+
+* [Вступна частина](README.md)
+* [Пояснювальна записка](poyasnyuvalna_zapyska.md)
+* [Структура програми](struktura_prohramy.md)
+* [Оцінювання](otsinyuvannya.md)
+* [Розподіл програмового матеріалу в навчальних годинах для уроків фізичної культури](rozpodil_prohramnoho_materialu.md)
+* [1 клас](1/1_klas.md)
+  * [Теоретико-методичні знання](1/teoretiko_metodychni_znannya.md)
+  * [Способи рухової діяльності](1/sposoby_rukhovoi_diyalnosty.md)
+    * [Школа культури рухів з елементами гімнастики](1/shkola_kultury_rukhiv_z_elementamy_himnastyky.md)
+      * [Орієнтовні навчальні нормативи і вимоги](1/normatyvy_i_vymoohy1.md)
+    * [Школа пересувань](1/shkola_peresuvan.md)
+      * [Орієнтовні навчальні нормативи і вимоги](1/normatyvy_i_vymoohy2.md)
+    * [Школа м’яча](1/shkola_myacha.md)
+      * [Орієнтовні навчальні нормативи і вимоги](1/normatyvy_i_vymoohy3.md)
+    * [Школа стрибків](1/shkola_strybkyv.md)
+      * [Орієнтовні навчальні нормативи і вимоги](1/normatyvy_i_vymoohy4.md)
+    * [Школа активного відпочинку (рекреації)](1/shkola_aktyvnoho_vidpochynku.md)
+      * [Орієнтовні навчальні нормативи і вимоги](1/normatyvy_i_vymoohy5.md)
+    * [Школа сприяння розвитку фізичних здібностей](1/shkola_spryiannya_rozvytku_fizychnykh_zdibnostei.md)
+    * [Школа постави](1/shkola_postavy.md)
+      * [Орієнтовні навчальні нормативи і вимоги](1/normatyvy_i_vymoohy7.md)
+* [2 клас](2/2_klas.md)
+  
+
