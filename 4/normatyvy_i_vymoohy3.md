@@ -5,7 +5,7 @@
 <table>
   <body>
     <tr>
-      <td align="center" valign="top" rowspan="2">
+      <td align="center" rowspan="2">
         <b>Зміст навчального матеріалу</b>
       </td>
       <td align="center" valign="top" colspan="4">
@@ -33,13 +33,13 @@
         Метання малого м’яча “із-за голови через плече” на дальність, м
       </td>
       <td valign="top">
-        дів. – до 12<br>хл. - до 15
+        дів. – до 12<br>хл. – до 15
       </td>
       <td valign="top">
-        дів. – 12<br>хл. - 15
+        дів. – 12<br>хл. – 15
       </td>
       <td valign="top">
-        Норма:<br>дів. – 15<br>хл. - 20
+        Норма:<br>дів. – 15<br>хл. – 20
       </td>
       <td valign="top">
         Результат, вищий за норму
@@ -53,13 +53,13 @@
       <td valign="top">
         один або жодного
       </td>
-      <td valign="top">
+      <td align="center">
         2
       </td>
-      <td valign="top">
+      <td align="center">
         3
       </td>
-      <td valign="top">
+      <td align="center">
         4
       </td>
     </tr>
@@ -69,16 +69,16 @@
         7 ударів по нерухомому м’ячу у зазначену половину воріт одним із вивчених способів з відстані 5 м, кількість влучень
       </td>
       <td valign="top">
-        дів. – жодного<br>хл. - 1
+        дів. – жодного<br>хл. – 1
       </td>
       <td valign="top">
-        дів. – 1<br>хл. - 2
+        дів. – 1<br>хл. – 2
       </td>
       <td valign="top">
-        дів. – 2<br>хл. - 3
+        дів. – 2<br>хл. – 3
       </td>
       <td valign="top">
-        дів. – 3<br>хл. - 4
+        дів. – 3<br>хл. – 4
       </td>
     </tr>
 

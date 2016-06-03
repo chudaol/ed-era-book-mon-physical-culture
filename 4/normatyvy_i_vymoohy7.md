@@ -6,7 +6,7 @@
   <body>
 
     <tr>
-      <td align="center" valign="top" rowspan="3">
+      <td align="center" rowspan="3">
         <b>Фізичні якості</b>
       </td>
       <td align="center" valign="top" colspan="4">
@@ -40,7 +40,7 @@
 
     <tr>
       <td valign="top">
-        Комплекси:<br>а) на формування правильної постави;<br>) на запобігання плоскостопості
+        Комплекси:<br>а) на формування правильної постави;<br>б) на запобігання плоскостопості
       </td>
       <td valign="top">
         Не виконує запропоновані комплекси

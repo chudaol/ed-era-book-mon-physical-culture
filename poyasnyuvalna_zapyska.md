@@ -56,8 +56,8 @@
 	*	доступність  термінів, що використовуються;
 	*	доступна   для непрофесіоналів мова  написання.
 
-Предметом навчання у початковій  школі в галузі  физичного виховання є **рухова активність із загальноосвітньою спрямованістю**. 
+Предметом навчання у початковій  школі в галузі  фізичного виховання є **рухова активність із загальноосвітньою спрямованістю**. 
 
 <div class="js-hypercomments-container">
-    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
 </div>

@@ -5,7 +5,7 @@
 <table>
   <body>
     <tr>
-      <td align="center" valign="top" rowspan="2">
+      <td align="center" rowspan="2">
         <b>Зміст навчального матеріалу</b>
       </td>
       <td align="center" valign="top" colspan="4">

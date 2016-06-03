@@ -5,7 +5,7 @@
 <table>
   <body>
     <tr>
-      <td align="center" valign="top" rowspan="2">
+      <td align="center" rowspan="2">
         <b>Зміст навчального матеріалу</b>
       </td>
       <td align="center" valign="top" colspan="4">
@@ -32,16 +32,16 @@
       <td valign="top">
         Комплекси:<br>а) формування правильної постави;<br>б) для запобігання плоскостопості.
       </td>
-      <td valign="top">
+      <td align="center">
         Не виконує жодного
       </td>
-      <td valign="top">
+      <td align="center">
         1
       </td>
-      <td valign="top">
+      <td align="center">
         2
       </td>
-      <td valign="top">
+      <td align="center">
         3
       </td>
     </tr>

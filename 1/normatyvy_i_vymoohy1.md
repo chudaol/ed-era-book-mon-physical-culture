@@ -5,7 +5,7 @@
 <table>
   <body>
     <tr>
-      <td align="center" valign="top" rowspan="2">
+      <td align="center" rowspan="2">
         <b>Зміст навчального матеріалу</b>
       </td>
       <td align="center" valign="top" colspan="4">
@@ -30,7 +30,7 @@
 
     <tr>
     <td valign="top">
-        Стройові команди і прийоми:<br>а) команди “Рівняйсь!”, “Струнко!”, “Вільно!”;<br>б) повороти “Праворуч!”, “Ліворуч!”;<br>в) поворот “Кругом!”;</td>
+        Стройові команди і прийоми:<br>а) команди “Рівняйсь!”, “Струнко!”, “Вільно!”;<br>б) повороти “Праворуч!”, “Ліворуч!”;<br>в) поворот “Кругом!”</td>
       <td valign="top">
         а)
       </td>
@@ -68,7 +68,7 @@
         Акробатичні елементи на вибір:<br>а) групування сидячи;<br>б) перекати в групуванні;<br>в) перекид боком
       </td>
       <td valign="top">
-        не виконує жодного елементу
+        Не виконує жодного елементу
       </td>
       <td valign="top">
         1
@@ -85,13 +85,13 @@
     <td valign="top">
         Згинання і розгинання рук в упорі лежачи (разів)</td>
       <td valign="top">
-        дівч.– 2<br>хл. - 3
+        дівч. – 2<br>хл. – 3
       </td>
       <td valign="top">
-        дівч.– 4<br>хл. - 6
+        дівч. – 4<br>хл. – 6
       </td>
       <td valign="top">
-        Безпечний рівень:<br>дівч.– 6<br>хл. - 10
+        Безпечний рівень:<br>дівч. – 6<br>хл. – 10
       </td>
       <td valign="top">
         Результат, вищий за безпечний рівень
@@ -102,13 +102,13 @@
     <td valign="top">
         Нахил тулуба із положення сидячи (см)</td>
       <td valign="top">
-        дівч.– 1<br>хл. - 0
+        дівч. – 1<br>хл. – 0
       </td>
       <td valign="top">
-        дівч.– 2<br>хл. - 1
+        дівч. – 2<br>хл. – 1
       </td>
       <td valign="top">
-        Безпечний рівень:<br>дівч.– 4<br>хл. - 2
+        Безпечний рівень:<br>дівч. – 4<br>хл. – 2
       </td>
       <td valign="top">
         Результат, вищий за безпечний рівень
@@ -119,24 +119,22 @@
     <td valign="top">
         Підтягування у висі лежачи (разів)</td>
       <td valign="top">
-        дівч.– 2<br>хл. - 3
+        дівч. – 2<br>хл. – 3
       </td>
       <td valign="top">
-        дівч.– 5<br>хл. - 6
+        дівч. – 5<br>хл. – 6
       </td>
       <td valign="top">
-        Безпечний рівень:<br>дівч.– 7<br>хл. - 9
+        Безпечний рівень:<br>дівч. – 7<br>хл. – 9
       </td>
       <td valign="top">
         Результат, вищий за безпечний рівень
       </td>
     </tr>
-
-    
   </body>
 </table>
 
 
 <div class="js-hypercomments-container">
-    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
 </div>

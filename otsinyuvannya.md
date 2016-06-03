@@ -12,106 +12,103 @@
 <table>
   <body>
     <tr>
-      <td align="center" valign="top">
+      <td width="10%" align="center">
         <b>№ п/п</b>
       </td>
-      <td align="center" valign="top">
+      <td align="center">
         <b>Компонент оцінювання</b>
       </td>
-      <td align="center" valign="top">
+      <td align="center">
         <b>% в оцінці рівня навчальних досягнень</b>
       </td>
-      <td align="center" valign="top">
+      <td align="center">
         <b>Спосіб оцінювання</b>
       </td>
     </tr>
 
     <tr>
-      <td align="center" valign="top">
+      <td width="10%" align="center" style="vertical-align:top !important;">
         1.
       </td>
-      <td align="center" valign="top">
+      <td style="vertical-align:top !important;">
         Ставлення до уроків, відвідування, участь, підготовленість до уроку
       </td>
-      <td align="center" valign="top">
+      <td align="center" style="vertical-align:top !important;">
         10 %
       </td>
-      <td align="center" valign="top">
+      <td style="vertical-align:top !important;">
         Спостереження вчителя
       </td>
     </tr>
-
     <tr>
-      <td align="center" valign="top">
+      <td width="10%" align="center" style="vertical-align:top !important;">
         2.
       </td>
-      <td align="center" valign="top">
+      <td style="vertical-align:top !important;">
         Навички і вміння, визначені навчальною програмою, вміння застосовувати їх в ігрових ситуаціях
       </td>
-      <td align="center" valign="top">
+      <td align="center" style="vertical-align:top !important;">
         20 %
       </td>
-      <td align="center" valign="top">
+      <td style="vertical-align:top !important;">
         Об’єктивне тестування, спостереження вчителя, самооцінювання (починаючи з 3 класу)
       </td>
     </tr>
-
     <tr>
-      <td align="center" valign="top">
+      <td width="10%" align="center" style="vertical-align:top !important;">
         3.
       </td>
-      <td align="center" valign="top">
+      <td style="vertical-align:top !important;">
         Розвиток фізичних якостей (сила, витривалість, швидкість, гнучкість)
       </td>
-      <td align="center" valign="top">
+      <td align="center" style="vertical-align:top !important;">
         20 %
       </td>
-      <td align="center" valign="top">
+      <td style="vertical-align:top !important;">
         Моніторинг
       </td>
     </tr>
 
     <tr>
-      <td align="center" valign="top">
+      <td width="10%" align="center" style="vertical-align:top !important;">
         4.
       </td>
-      <td align="center" valign="top">
+      <td style="vertical-align:top !important;">
         Особистий прогрес учня у показниках фізичної підготовленості
       </td>
-      <td align="center" valign="top">
+      <td align="center" style="vertical-align:top !important;">
         20 %
       </td>
-      <td align="center" valign="top">
+      <td style="vertical-align:top !important;">
         Моніторинг
       </td>
     </tr>
 
     <tr>
-      <td align="center" valign="top">
+      <td width="10%" align="center" style="vertical-align:top !important;">
         5.
       </td>
-      <td align="center" valign="top">
+      <td style="vertical-align:top !important;">
         Знання та їх застосування на практиці (основні поняття, визначені програмою, правила ігор, розуміння процесів, що відбуваються в організмі під час виконання вправ тощо)
       </td>
-      <td align="center" valign="top">
+      <td align="center" style="vertical-align:top !important;">
         15 %
       </td>
-      <td align="center" valign="top">
+      <td style="vertical-align:top !important;">
         Спостереження вчителя, самооцінювання (починаючи з 3 класу), тестування
       </td>
     </tr>
-
     <tr>
-      <td align="center" valign="top">
+      <td width="10%" align="center" style="vertical-align:top !important;">
         6.
       </td>
-      <td align="center" valign="top">
+      <td style="vertical-align:top !important;">
         Поведінка: соціальна поведінка, відвідування спортивної секції, участь у змаганнях,  дотримання правил безпечної поведінки і збереження здоров’я на уроках та у позаурочних заходах
       </td>
-      <td align="center" valign="top">
+      <td align="center" style="vertical-align:top !important;">
         15 %
       </td>
-      <td align="center" valign="top"> 
+      <td style="vertical-align:top !important;"> 
         Спостереження вчителя, взаємне оцінювання серед учнів, самооцінювання (починаючи з 3 класу)
       </td>
     </tr>
@@ -120,7 +117,7 @@
       <td align="center" valign="top">
         
       </td>
-      <td align="center" valign="top">
+      <td style="vertical-align:top !important;">
         ВСЬОГО:
       </td>
       <td align="center" valign="top">
@@ -137,7 +134,6 @@
 
 Починаючи з другого класу, теоретичні знання оцінюються за дванадцятьма теоретичними тестами,   що дає змогу виставити оцінку за дванадцятибальною шкалою – оцінка відповідає кількості правильних  відповідей (Додаток 5). Виходячи з умов навчального закладу та потреб навчального процесу учитель може сам підбирати запитання для визначення знань учнів.
 
-    
 <div class="js-hypercomments-container">
-    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
 </div>

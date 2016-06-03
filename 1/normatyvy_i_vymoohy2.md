@@ -5,7 +5,7 @@
 <table>
   <body>
     <tr>
-      <td align="center" valign="top" rowspan="2">
+      <td align="center" rowspan="2">
         <b>Зміст навчального матеріалу</b>
       </td>
       <td align="center" valign="top" colspan="4">
@@ -33,13 +33,13 @@
         “Човниковий біг” 4х9 м (с)
       </td>
       <td valign="top">
-        дівч.– 15,4<br>хл. -  14,8
+        дівч. – 15,4<br>хл. – 14,8
       </td>
       <td valign="top">
-        дівч.– 14,7<br>хл. -  14,2
+        дівч. – 14,7<br>хл. – 14,2
       </td>
       <td valign="top">
-        Безпечний рівень:<br>дівч.– 14.1<br>хл. -  13.6
+        Безпечний рівень:<br>дівч. – 14.1<br>хл. – 13.6
       </td>
       <td valign="top">
         Результат, вищий за безпечний рівень
@@ -51,13 +51,13 @@
         Чергування ходьби та бігу до 1000 м (м)
       </td>
       <td valign="top">
-        дів. – 600<br>хл. - 800
+        дів. – 600<br>хл. – 800
       </td>
       <td valign="top">
-        дів. – 700<br>хл. - 900
+        дів. – 700<br>хл. – 900
       </td>
       <td valign="top">
-        Безпечний рівень:<br>дів. – 800<br>хл. - 1000
+        Безпечний рівень:<br>дів. – 800<br>хл. – 1000
       </td>
       <td valign="top">
         Результат, вищий за безпечний рівень
@@ -78,7 +78,7 @@
         3
       </td>
       <td valign="top">
-        танцювальна комбінація
+        Танцювальна комбінація
       </td>
     </tr>
 
@@ -140,7 +140,6 @@
   </body>
 </table>
 
-
 <div class="js-hypercomments-container">
-    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
 </div>

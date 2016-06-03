@@ -5,7 +5,7 @@
 <table>
   <body>
     <tr>
-      <td align="center" valign="top" rowspan="2">
+      <td align="center" rowspan="2">
         <b>Зміст навчального матеріалу</b>
       </td>
       <td align="center" valign="top" colspan="4">
@@ -32,16 +32,16 @@
       <td valign="top">
         Вміння грати та організувати народні та рухливі ігри (кількість ігор)
       </td>
-      <td valign="top">
+      <td align="center">
         2
       </td>
-      <td valign="top">
+      <td align="center">
         3
       </td>
-      <td valign="top">
+      <td align="center">
         4
       </td>
-      <td valign="top">
+      <td align="center">
         5
       </td>
     </tr>

@@ -5,10 +5,10 @@
 <table>
   <body>
     <tr>
-      <td align="center" valign="top" rowspan="2">
+      <td width="40%" align="center" rowspan="2">
         <b>Зміст навчального матеріалу</b>
       </td>
-      <td align="center" valign="top" colspan="4">
+      <td width="60%" align="center" colspan="4">
         <b>Рівень навчальних  досягнень учнів</b>
       </td>
     </tr>
@@ -29,7 +29,7 @@
     </tr>
 
     <tr>
-      <td valign="top">
+      <td width="40%">
         Комплекси:<br>а) для формування правильної постави із гімнастичною палицею;<br>б) для запобігання плоскостопості.
       </td>
       <td valign="top">
