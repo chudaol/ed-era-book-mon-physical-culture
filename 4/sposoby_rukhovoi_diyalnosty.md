@@ -2,6 +2,7 @@
 
 #Способи рухової діяльності
 
+<p><b>Зміст розділу:</b></p>
 * [Школа культури рухів з елементами гімнастики](shkola_kultury_rukhiv_z_elementamy_himnastyky.md)
 	*	[Орієнтовні навчальні нормативи і вимоги](normatyvy_i_vymoohy1.md)
 * [Школа пересувань](shkola_peresuvan.md)

@@ -64,7 +64,7 @@
 <td colspan="4" ></td>    
     </tr>
     <tr>
-      <td valign="top"> 1. Школа культури рухів з елементами гімнастики
+      <td valign="top"><ol start="1"><li>Школа культури рухів з елементами гімнастики</li></ul>
       </td>
       <td align="center" valign="top">
         17
@@ -82,7 +82,7 @@
 
     <tr>
       <td valign="top">
-        2. Школа пересувань
+        <ol start="2"><li>Школа пересувань</li></ul>
       </td>
       <td align="center" valign="top">
         26
@@ -100,7 +100,7 @@
 
     <tr>
       <td valign="top">
-        3. Школа м’яча
+        <ol start="3"><li>Школа м’яча</li></ul>
       </td>
       <td align="center" valign="top">
         12
@@ -118,7 +118,7 @@
 
     <tr>
       <td valign="top">
-        4. Школа стрибків
+        <ol start="4"><li>Школа стрибків</li></ul>
       </td>
       <td align="center" valign="top">
         8
@@ -136,7 +136,7 @@
 
     <tr>
       <td valign="top">
-        5. Школа активного відпочинку (рекреації)
+        <ol start="5"><li>Школа активного відпочинку (рекреації)</li></ul>
       </td>
       <td align="center" valign="top">
         17
@@ -154,7 +154,7 @@
 
     <tr>
       <td valign="top">
-        6. Школа сприяння розвитку фізичних якостей
+        <ol start="6"><li>Школа сприяння розвитку фізичних якостей</li></ul>
       </td>
       <td align="center" valign="top" colspan="4" rowspan="2">
         У змісті відповідних розділів програми<br>На всіх уроках
@@ -163,13 +163,13 @@
 
     <tr>
       <td valign="top">
-        7. Школа постави
+        <ol start="7"><li>Школа постави</li></ul>
       </td>
     </tr>
 
     <tr>
       <td valign="top">
-        8. Визначення динаміки змін показників розвитку фізичних якостей
+        <ol start="8"><li>Визначення динаміки змін показників розвитку фізичних якостей</li></ul>
       </td>
       <td align="center" valign="top">
         2
@@ -187,7 +187,7 @@
 
     <tr>
       <td valign="top">
-        9. Резервний час
+        <ol start="9"><li>Резервний час</li></ul>
       </td>
       <td align="center" valign="top">
         20
