@@ -117,7 +117,7 @@
       <td align="center" valign="top">
         
       </td>
-      <td style="vertical-align:top !important;">
+      <td style="right" valign="top">
         Всього:
       </td>
       <td align="center" valign="top">
