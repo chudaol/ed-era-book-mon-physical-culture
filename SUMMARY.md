@@ -1,6 +1,7 @@
 ### Вступ
 
 * [Вступна частина](README.md)
+* [Зміст програми](zmist.md)
 * [Пояснювальна записка](poyasnyuvalna_zapyska.md)
   * [Структура програми](struktura_prohramy.md)
   * [Оцінювання](otsinyuvannya.md)
